@@ -1,6 +1,6 @@
 
  /*
-      Author Names: Vaishnavi Jadhav, Anuja Joshi
+      Author Names: Vaishnavi Jadhav
 
       RTES PROJECT 
  
